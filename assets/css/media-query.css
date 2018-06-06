@@ -1,0 +1,144 @@
+@media (min-width:320px)  { /* smartphones, iPhone, portrait 480x320 phones */ 
+	.header { 
+		text-align: center;
+	}
+	.inline {
+		text-align: center;
+	}
+	.step-by-step {
+		width: 100%;
+	}
+	.step-by-step {
+		width: 100%;
+	}
+	.first-section {
+		margin-bottom: 115px;
+	}
+	.jump-btn{
+		width: 100%;
+	}
+	.card {
+		width: 100%;
+	}
+	.body-content {
+		width: 50%;
+	}
+	.jump-modal {
+		width: 80%;
+	}
+	.jump-modal h3{
+		font-size: 23px;
+	}
+}
+
+@media (min-width:481px)  { /* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */ 
+	.header { 
+		text-align: center;
+	}
+	.inline {
+		text-align: center;
+	}
+	.step-by-step {
+		width: 100%;
+	}
+	.first-section {
+		margin-bottom: 115px;
+	}
+	.jump-btn{
+		width: 257px;
+	}
+	.card {
+		width: 226px;
+	}
+	.body-content {
+		width: 80%;
+	}
+	.jump-modal h3{
+		font-size: 23px;
+	}
+}
+
+@media (min-width:641px)  { /* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */ 
+	.header { 
+		text-align: center;
+	}
+	.inline {
+		text-align: center;
+	}
+	.step-by-step {
+		width: 100%;
+	}	
+	.first-section {
+		margin-bottom: 115px;
+	}
+	.body-content {
+		width: 80%;
+	}
+	.mt-100 {
+		margin-top: 207px;
+	}
+
+	.jump-modal {
+		width: 60%;
+	}
+	.jump-modal h3{
+		font-size: 33px;
+	}
+
+}
+
+@media (min-width:961px)  { /* tablet, landscape iPad, lo-res laptops ands desktops */ 
+	.header { 
+		text-align: center;
+	}
+	.inline {
+		text-align: center;
+	}
+	.step-by-step {
+		width: 100%;
+	}
+	.first-section {
+		margin-bottom: 115px;
+	}
+	.body-content {
+		width: 80%;
+	}
+	.mt-100 {
+		margin-top: 100px;
+	}
+}
+
+@media (min-width:1025px) { /* big landscape tablets, laptops, and desktops */ 
+	.header-titles {
+		text-align: left;
+	}
+	.inline {
+		text-align: left;
+	}
+	.step-by-step {
+		width: 48%;
+	}
+	br { 
+       display: none;   
+    }
+    .first-section {
+		margin-bottom: 0px;
+	}
+
+}
+
+@media (min-width:1281px) { /* hi-res laptops and desktops */ 
+	.header-titles {
+		text-align: left;
+	}
+	.inline {
+		text-align: left;
+	}
+	br { 
+       display: none;   
+    }
+    .first-section {
+		margin-bottom: 0px;
+	}
+
+}
