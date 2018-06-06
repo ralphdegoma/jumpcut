@@ -19,6 +19,7 @@
 	}
 	.card {
 		width: 100%;
+		height: auto;
 	}
 	.body-content {
 		width: 50%;
